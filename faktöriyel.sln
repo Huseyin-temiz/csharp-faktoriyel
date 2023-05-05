@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktöriyel", "faktöriyel\faktöriyel.csproj", "{622EB9AA-CEA9-437C-BB83-652F0314D76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622EB9AA-CEA9-437C-BB83-652F0314D76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622EB9AA-CEA9-437C-BB83-652F0314D76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622EB9AA-CEA9-437C-BB83-652F0314D76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622EB9AA-CEA9-437C-BB83-652F0314D76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935B73FC-04D3-4FAC-A8D2-DB1141EDA546}
+	EndGlobalSection
+EndGlobal
